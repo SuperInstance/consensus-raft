@@ -1,0 +1,11 @@
+[package]
+name = "consensus-raft"
+version = "0.1.0"
+edition = "2021"
+description = "Raft consensus protocol simulation: leader election, log replication, commitment, membership changes"
+license = "MIT"
+repository = "https://github.com/SuperInstance/consensus-raft"
+keywords = ["raft", "consensus", "distributed", "election", "replication"]
+categories = ["algorithms", "simulation"]
+
+[dependencies]
